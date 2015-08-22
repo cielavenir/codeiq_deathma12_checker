@@ -16,14 +16,8 @@ Play Store からインストールしてください。
 
 [Tampermonkey Install](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)
 
-* 当ページの画面右側にある「Download ZIP」ボタンをクリックします。  
-  ※gitになれている方はcloneしてもらった方が早いです
-
-* ダウンロードしたZIPを解凍します。
-* GoogleChromeを起動します。
-* Tampermonkey のメニューから「ダッシュボード」を選択
-* 新規スクリプトアイコンを選択します
-* 先ほどダウンロードした「deathma12_answer_check.user.js」の中身をコピペし、保存します
+* deathma12_answer_check.user.js を開き、ソース画面右上の「Raw」ボタンをクリックします
+* Tampermonkey の確認画面が開くので、「インストール」します
 * 以上で設定完了です
 
 ### FireFoxの場合
